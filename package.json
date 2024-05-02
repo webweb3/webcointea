@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "webloogon": "^1.0.0"
+  },
+  "name": "webcointea",
+  "version": "4.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/webweb3/webcointea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webweb3/webcointea/issues"
+  },
+  "homepage": "https://github.com/webweb3/webcointea#readme",
+  "description": ""
+}
